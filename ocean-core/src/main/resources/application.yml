@@ -10,3 +10,8 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mybatis/*Mapper.xml
+
+beetl:
+  suffix: html
+  enabled: true
+#beetl-beetlsql.dev: true
